@@ -1,0 +1,7 @@
+*.img
+*.iso
+*.tar
+*.tar.xz
+*.tar.gz
+/sources/
+/tools/
